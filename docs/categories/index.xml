@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dmitry Bilichenko</title>
-    <link>//dmitrybilichenko.ru/categories/</link>
+    <link>//billo32.github.io/dmitrybilichenko.ru/categories/</link>
     <description>Recent content in Categories on Dmitry Bilichenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&amp;copy; 2020 Dmitry Bilichenko</copyright>
     
-	<atom:link href="//dmitrybilichenko.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//billo32.github.io/dmitrybilichenko.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

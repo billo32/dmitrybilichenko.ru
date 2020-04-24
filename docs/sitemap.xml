@@ -2,4 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/cv/</loc>
+    <lastmod>2020-04-24T19:58:23+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/</loc>
+    <lastmod>2020-04-24T19:58:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/cv/esky_head/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/cv/esky_senior/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/cv/cloudconsole/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/cv/threatdeception/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/posts/my-first-post/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/posts/</loc>
+    <lastmod>2020-04-24T19:56:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//billo32.github.io/dmitrybilichenko.ru/tags/</loc>
+  </url>
+  
 </urlset>

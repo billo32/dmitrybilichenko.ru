@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//dmitrybilichenko.ru"
+baseURL = "//billo32.github.io/dmitrybilichenko.ru/"
 languageCode = "en-US"
 title = "Dmitry Bilichenko"
 theme = "hugo-split-theme"

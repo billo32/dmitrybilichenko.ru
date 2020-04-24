@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmitry Bilichenko</title>
-    <link>//dmitrybilichenko.ru/</link>
+    <link>//billo32.github.io/dmitrybilichenko.ru/</link>
     <description>Recent content on Dmitry Bilichenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&amp;copy; 2020 Dmitry Bilichenko</copyright>
     <lastBuildDate>Fri, 24 Apr 2020 19:58:15 +0300</lastBuildDate>
     
-	<atom:link href="//dmitrybilichenko.ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//billo32.github.io/dmitrybilichenko.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ESKY shop</title>
-      <link>//dmitrybilichenko.ru/cv/esky_head/</link>
+      <link>//billo32.github.io/dmitrybilichenko.ru/cv/esky_head/</link>
       <pubDate>Fri, 24 Apr 2020 19:56:18 +0300</pubDate>
       
-      <guid>//dmitrybilichenko.ru/cv/esky_head/</guid>
+      <guid>//billo32.github.io/dmitrybilichenko.ru/cv/esky_head/</guid>
       <description>Обязанности: Собрать новую команду разработчиков, выстроить процессы разработки, code review, и тестирования. Пересмотреть архитектуру проекта, внедрить CI/CD, увеличить частоту релизов, повысить</description>
     </item>
     
     <item>
       <title>ESKY shop</title>
-      <link>//dmitrybilichenko.ru/cv/esky_senior/</link>
+      <link>//billo32.github.io/dmitrybilichenko.ru/cv/esky_senior/</link>
       <pubDate>Fri, 24 Apr 2020 19:56:18 +0300</pubDate>
       
-      <guid>//dmitrybilichenko.ru/cv/esky_senior/</guid>
+      <guid>//billo32.github.io/dmitrybilichenko.ru/cv/esky_senior/</guid>
       <description>Обязанности: Собрать новую команду разработчиков, выстроить процессы разработки, code review, и тестирования. Пересмотреть архитектуру проекта, внедрить CI/CD, увеличить частоту релизов, повысить</description>
     </item>
     
     <item>
       <title>Kaspersky Lab</title>
-      <link>//dmitrybilichenko.ru/cv/cloudconsole/</link>
+      <link>//billo32.github.io/dmitrybilichenko.ru/cv/cloudconsole/</link>
       <pubDate>Fri, 24 Apr 2020 19:56:18 +0300</pubDate>
       
-      <guid>//dmitrybilichenko.ru/cv/cloudconsole/</guid>
+      <guid>//billo32.github.io/dmitrybilichenko.ru/cv/cloudconsole/</guid>
       <description>Обязанности: Собрать новую команду разработчиков, выстроить процессы разработки, code review, и тестирования. Пересмотреть архитектуру проекта, внедрить CI/CD, увеличить частоту релизов, повысить</description>
     </item>
     
     <item>
       <title>Kaspersky Lab</title>
-      <link>//dmitrybilichenko.ru/cv/threatdeception/</link>
+      <link>//billo32.github.io/dmitrybilichenko.ru/cv/threatdeception/</link>
       <pubDate>Fri, 24 Apr 2020 19:56:18 +0300</pubDate>
       
-      <guid>//dmitrybilichenko.ru/cv/threatdeception/</guid>
+      <guid>//billo32.github.io/dmitrybilichenko.ru/cv/threatdeception/</guid>
       <description>Обязанности: Собрать новую команду разработчиков, выстроить процессы разработки, code review, и тестирования. Пересмотреть архитектуру проекта, внедрить CI/CD, увеличить частоту релизов, повысить</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>//dmitrybilichenko.ru/posts/my-first-post/</link>
+      <link>//billo32.github.io/dmitrybilichenko.ru/posts/my-first-post/</link>
       <pubDate>Fri, 24 Apr 2020 19:56:18 +0300</pubDate>
       
-      <guid>//dmitrybilichenko.ru/posts/my-first-post/</guid>
+      <guid>//billo32.github.io/dmitrybilichenko.ru/posts/my-first-post/</guid>
       <description></description>
     </item>
     
