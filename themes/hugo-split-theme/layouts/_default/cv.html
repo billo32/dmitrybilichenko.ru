@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+
+<head>
+  {{ partial "head" . }}  
+</head>
+
+<body id="fullsingle" class="page-template-page-fullsingle-split">
+
+  <div class="centered">
+    <div class="content">
+      <div class="header">
+        <a style="display: inline-block;" href="/" class="btn-back"></a>
+        <span style="display: inline-block;">{{ .Content }}</span>
+      </div>
+
+      <hr>
+
+      <div class="sections">
+
+        <div class="section">
+          <div class="company">Profile</div>
+          <div class="description">
+            <p>Ведущий разработчик, менеджер проекта, управляю командами разработчиков по 3-6 человек, оптимизирую межкомандные взаимодействия. Просматриваю кандидатов на соответствующие позиции, провожу технические собеседования, принимаю решения о найме.
+            </p>
+          </div>
+      </div>
+
+      <hr>
+
+      {{ range (.Pages.ByParam "index").Reverse }}
+      <div class="section" style="  display: flex;  ">
+          <div class="company" style="display: flex; ">{{.Title}}</div>
+          <div>
+            <div class="working-period">
+              {{ .Params.period }}
+            </div>
+            <div class="project">
+              {{ .Params.project }}
+            </div>            
+            <div class="position">
+              {{ .Params.position }}
+            </div>
+            <div class="description">
+              {{ .Content}}
+            </div>
+          </div>
+      </div>
+    {{ end }}
+  </div>
+    </div>
+  
+  </div>
+  
+</body>
+</html>
