@@ -16,9 +16,9 @@ copyright = "&copy; 2020 Dmitry Bilichenko"
 
   # Metadata for search engines and social sharing
   author = "Dmitry Bilichenko"
-  description = "Presonal blog"
+  description = "Personal blog"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "billo32"
 
   # Favicon
   favicon = "favicon.ico"
